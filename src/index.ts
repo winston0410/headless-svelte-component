@@ -1,1 +1,1 @@
-export * as Dummy from './Dummy.svelte'
+export * as MetaData from './MetaData.svelte'
